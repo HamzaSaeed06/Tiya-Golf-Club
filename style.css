@@ -1,0 +1,202 @@
+body,html{
+    font-family: "Open Sans", sans-serif
+}
+
+.navbar{
+    background-color: #3D405B;
+}
+
+.nav-content{
+    width: 70%;
+}
+
+.login-btn{
+    background-color: #3D405B;
+    color: rgb(212, 192, 7) !important;
+    border: 2px solid rgb(212, 192, 7);
+}
+
+.left-btn{
+    background-color: rgb(212, 192, 7);
+    /* color: rgb(212, 192, 7) !important; */
+    border: 2px solid rgb(212, 192, 7);
+}
+
+.hero-section{
+    background: linear-gradient(
+      to right,
+      rgba(0, 0, 0, 0.9),
+      rgba(0, 0, 0, 0.6),
+      transparent
+    ) !important;
+    position: relative;
+    z-index: 100;
+}
+
+.hero-inner{
+    position: relative;
+    z-index: 100;
+}
+
+.shapes{
+    position: relative;
+    z-index: 100;
+}
+
+
+
+.bg-image {
+    background-image: url('./assets/frederik-rosar-NDSZcCfnsbY-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    margin-bottom: -70px;
+  }
+  
+  .bg-image .container + svg {
+    transform: rotate(180deg);
+    position: relative;
+    bottom: -1px;
+  }
+  
+  .section-image-block {
+    backdrop-filter: blur(5px) saturate(180%);
+    -webkit-backdrop-filter: blur(5px) saturate(180%);
+    background-color: rgba(255, 255, 255, 0.75);
+    border-radius: 30px;
+    border: 1px solid rgba(209, 213, 219, 0.3);
+    padding: 50px;
+  }
+  
+  .section-image-block .input-group {
+    border-radius: 20px;
+    padding: 10px 15px;
+  }
+  
+  
+  
+  .section-image-block button{
+    border: 0;
+    border-radius: 0px 20px 20px 0px !important;
+    max-width: 150px;
+  }
+
+
+  /* ////////////// */
+
+
+  /* .section-padding {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+  
+  .section-overlay {
+    content: "";
+    background: rgba(0, 0, 0, 0) linear-gradient(rgba(39, 48, 83, 0.01) 0%, rgb(39, 48, 83) 100%) repeat scroll 0% 0%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+  
+  ::selection {
+    background-color: var(--primary-color);
+    color: var(--white-color);
+  }
+  
+
+  .membership-section .container {
+    position: relative;
+    z-index: 2;
+  }
+  
+  .table-responsive {
+    border-radius: var(--border-radius-medium);
+  }
+  
+  .table-responsive tbody, 
+  .table-responsive td, 
+  .table-responsive tfoot, 
+  .table-responsive th, 
+  .table-responsive thead, 
+  .table-responsive tr {
+    border: 0;
+  }
+  
+  .table-responsive thead tr {
+    background-color: var(--secondary-color);
+    color: var(--white-color);
+  }
+  
+  .table-responsive thead th {
+    padding: 22px 16px !important;
+  }
+  
+  .table-responsive tbody tr:nth-child(even) {
+    background-color:;
+  }
+  
+  .table-responsive .bi-check-circle-fill {
+    color: var(--primary-color);
+  }
+  
+  .table-responsive .bi-x-circle-fill {
+    color: var(--custom-btn-bg-hover-color);
+  }
+  
+  .membership-form {
+    background-color: var(--secondary-color);
+    border-radius: var(--border-radius-medium);
+    padding: 35px;
+  }
+  
+  .membership-form .form-floating>textarea {
+    border-radius: var(--border-radius-medium);
+    height: 100px;
+  }
+  
+   */
+
+
+
+
+   /* .events-section.section-bg .container > .row {
+    margin-right: 5px;
+    margin-left: 5px;
+  }
+  
+  .events-section.section-bg .container > .row .row {
+    margin: auto;
+  }
+  
+  .events-listing-section {
+    margin-bottom: 100px;
+  }
+  
+  .events-detail-section .custom-block-info {
+    padding: 40px 60px;
+  }
+  
+  .events-detail-info {
+    background-color:;
+    border-radius:;
+    padding: 50px 25px;
+  }
+  
+  .events-title {
+    font-size:;
+    font-weight: ;
+  } */
+
+
+
+
+
+
+
+  .image-wrap{
+    border-radius: 35px;
+  }
+  
